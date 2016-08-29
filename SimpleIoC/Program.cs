@@ -12,6 +12,7 @@ namespace SimpleIoC
     {
         static void Main(string[] args)
         {
+            // Simple IOC
             //Với mỗi Interface, ta define một Module tương ứng
             //DIContainer.SetModule<IDatabase, Database>();
             //DIContainer.SetModule<ILogger, Logger>();
